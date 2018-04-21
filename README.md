@@ -1,4 +1,4 @@
-# DiffEqPy
+# DiffEqPy.jl
 
 [![Build Status](https://travis-ci.org/ChrisRackauckas/DiffEqPy.jl.svg?branch=master)](https://travis-ci.org/ChrisRackauckas/DiffEqPy.jl)
 
