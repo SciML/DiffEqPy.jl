@@ -1,5 +1,5 @@
 using DiffEqPy
 using Base.Test
 
-# write your own tests here
-@test 1 == 2
+# The test is just that it builds.
+# Most of this is tested from the Python side!
