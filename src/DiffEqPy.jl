@@ -3,7 +3,7 @@ module DiffEqPy
 using Reexport
 @reexport using DifferentialEquations
 using PyCall
-pysolve = PyCall.pyfunctionret(solve,Any,PyCall.PyAny)
+pysolve = PyCall.pyfunctionret(solve,Any,Vararg{PyCall.PyAny})
 
 export pysolve
 
